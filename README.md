@@ -1,1 +1,5 @@
-The Pune Tourism Website is a responsive and dynamic web application developed using Angular, designed to showcase Pune's rich cultural heritage, historical landmarks, and diverse tourist attractions. This visually engaging and user-friendly platform serves as a comprehensive guide for tourists seeking to explore the vibrant city of Pune.
+Project : Pune Tourism Responsive Website
+Technologies Used: HTML, CSS, JavaScript, Bootstrap, Angular
+
+The Pune Tourism Website is a responsive and dynamic web application developed using Angular. It showcases Pune’s cultural heritage, historical landmarks, tourist attractions, and travel packages in a visually appealing and user-friendly manner.
+Built with a mobile-first approach and leveraging Angular's powerful features, the website ensures seamless navigation and optimal responsiveness across all screen sizes.
