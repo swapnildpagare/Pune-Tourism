@@ -1,1 +1,1 @@
-
+The Pune Tourism Website is a responsive and dynamic web application developed using Angular, designed to showcase Pune's rich cultural heritage, historical landmarks, and diverse tourist attractions. This visually engaging and user-friendly platform serves as a comprehensive guide for tourists seeking to explore the vibrant city of Pune.
